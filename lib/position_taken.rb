@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
 
-def position_taken(index_number)
+def position_taken?(board, index)
   position =  array[index_number]
   
 end 
